@@ -1,0 +1,6 @@
+setup.py
+test.py
+mismisulicfilipminajbtomg.egg-info/PKG-INFO
+mismisulicfilipminajbtomg.egg-info/SOURCES.txt
+mismisulicfilipminajbtomg.egg-info/dependency_links.txt
+mismisulicfilipminajbtomg.egg-info/top_level.txt
